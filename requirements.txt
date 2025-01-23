@@ -10,10 +10,6 @@ jupyterlite-pyodide-kernel==0.5.0
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
 
-# Language support (optional)
-jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-zh-CN
-
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
 
@@ -43,3 +39,14 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+notion-graph
+langchain
+langchain_openai
+ultimate_notion
+notion-nlp
+notion-kit
+
+
+
+
