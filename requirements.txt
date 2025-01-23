@@ -44,7 +44,6 @@ notion-graph
 langchain
 langchain_openai
 ultimate_notion
-notion-nlp
 notion-kit
 
 
